@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/blue/archer.png</file>
+        <file>image/blue/archerM.png</file>
+        <file>image/blue/castle.png</file>
+        <file>image/blue/chevalier.png</file>
+        <file>image/blue/infanterie.png</file>
+        <file>image/case/mountains2.png</file>
+        <file>image/case/sea2.png</file>
+        <file>image/case/tree2.png</file>
+        <file>image/green/archer.png</file>
+        <file>image/green/archerM.png</file>
+        <file>image/green/castle.png</file>
+        <file>image/green/chevalier.png</file>
+        <file>image/green/infanterie.png</file>
+        <file>image/neutral/archer.png</file>
+        <file>image/neutral/archerM.png</file>
+        <file>image/neutral/castle.png</file>
+        <file>image/neutral/chevalier.png</file>
+        <file>image/neutral/infanterie.png</file>
+        <file>image/red/archerM.png</file>
+        <file>image/red/archer.png</file>
+        <file>image/red/castle.png</file>
+        <file>image/red/chevalier.png</file>
+        <file>image/red/infanterie.png</file>
+        <file>image/settings/fond.png</file>
+        <file>image/settings/img_shop.jpg</file>
+        <file>image/settings/monnaie.png</file>
+        <file>image/yellow/archerM.png</file>
+        <file>image/yellow/archer.png</file>
+        <file>image/yellow/castle.png</file>
+        <file>image/yellow/chevalier.png</file>
+        <file>image/yellow/infanterie.png</file>
+        <file>image/settings/archer_shop.png</file>
+        <file>image/settings/archerM_shop.png</file>
+        <file>image/settings/chevalier_shop.png</file>
+        <file>image/settings/infanterie_shop.png</file>
+    </qresource>
+    <qresource prefix="/fichiers">
+        <file>fichiers/level.txt</file>
+    </qresource>
+</RCC>
